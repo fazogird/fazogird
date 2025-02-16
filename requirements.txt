@@ -1,0 +1,6 @@
+earthengine-api
+ee
+pandas
+IPython.display
+numpy
+matplotlib.pyplot
