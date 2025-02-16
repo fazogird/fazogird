@@ -1,6 +1,6 @@
 earthengine-api
 ee
 pandas
-IPython.display
+IPython
 numpy
-matplotlib.pyplot
+matplotlib
